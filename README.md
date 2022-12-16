@@ -1,4 +1,4 @@
-# Content-Based-Book-Recommendation-System
+# Content-Based Book Recommendation System
 
 ## Dataset: [goodbooks-10k](https://www.kaggle.com/datasets/zygmunt/goodbooks-10k)
 
